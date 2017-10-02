@@ -21,4 +21,4 @@ Add UI elements to your app to make it look nice.
 7. Try adding other object, such as a Label, Slider, Switch, Text Field, and Segmented Control.
 ![More Controls](6-MoreControls.png)
 
-When you are ready, let's move on to [Lesson 3](Lesson_3/README.md).
+When you are ready, let's move on to [Lesson 3](/Lesson_3/README.md).
