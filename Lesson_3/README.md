@@ -26,5 +26,6 @@ Logic is the magic that allows your app to work.
 ![Finished Code](7-FinishedCode.png)
 
 9. Run the simulator. Tap the button and the label's text should change.
+![Simulator](8-Simulator.png)
 
 Now you know how to run code when the button is tapped. To learn about variables, move on to [Lesson 4](/Lesson_4/README.md).
