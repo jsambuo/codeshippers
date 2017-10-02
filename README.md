@@ -14,6 +14,6 @@ If you get lost, FinalCode.zip contains the files for how your project should lo
 
 ### More Resouces
 - [Standford University - Developing iOS 10 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120)
-  - [It's also available on YouTube](https://www.youtube.com/playlist?list=PL3d_SFOiG7_-AhUEwk_TJ_GEjO67GMBHR)
+  - [(It's also available on YouTube)](https://www.youtube.com/playlist?list=PL3d_SFOiG7_-AhUEwk_TJ_GEjO67GMBHR)
 - [raywenderlich.com](https://www.raywenderlich.com/category/ios)
 - [stackoverflow.com](https://stackoverflow.com/questions/tagged/ios)
