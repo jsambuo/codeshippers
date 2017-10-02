@@ -20,3 +20,4 @@ Xcode is the tool we use to create iOS apps.
 ![Simulator](5-Simulator.png)
 
 Congratulations, you have just launched your first iOS app!
+When you are ready, continue onto [Lesson 2](Lesson_2/README.md).
